@@ -101,5 +101,5 @@ form button{
   transition: 0.3s;
 }
 form button:hover{
-  background: #219150;
+  background-color: #219150;
 }
