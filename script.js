@@ -27,5 +27,4 @@ const email = document.querySelector("#email");
              icon2.style.display = "none";
              error.style.display = "none";
              btn.style.display = "none";
-           }
-         }
+           }}
